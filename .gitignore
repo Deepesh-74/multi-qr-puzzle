@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+
+# Local prototype state and cryptographic material
+*.db
+*.sqlite*
+*.key
+*.pem
+keys/
+secure_storage/
+web_generated_qr/
